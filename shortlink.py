@@ -1,4 +1,5 @@
-import json
+#MassBypassShortlink
+#!/usr/bin/env python3import json
 import time
 import os
 import requests
