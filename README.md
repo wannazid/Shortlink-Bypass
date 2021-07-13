@@ -1,4 +1,4 @@
-https://ibb.co/TW1rKQ3
+![alt text](https://github.com/wannazid/Shortlink-Bypass/blob/main/preview.jpg)
 # Shortlink-Bypass
 Mass Shortlink Bypass Merupakan Tools Yang Akan Bypass Shortlink Ke Tujuan Asli, Dibuat Dengan Python 3
 # Support Shortlink 
