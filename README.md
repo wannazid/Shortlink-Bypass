@@ -19,7 +19,7 @@ Mass Shortlink Bypass Merupakan Tools Yang Akan Bypass Shortlink Ke Tujuan Asli,
 - rebrandly.com/rebrand.ly
 # Cara Install 
 - Install Python3
-- pip install requirements.txt
+- pip install -r requirements.txt
 - python3 shortlink.py
 # Selamat Mencoba
 
