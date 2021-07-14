@@ -1,4 +1,4 @@
 requests
 colorama
-base64
+pybase64
 pyfiglet
